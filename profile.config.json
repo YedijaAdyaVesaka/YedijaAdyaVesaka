@@ -1,67 +1,91 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Yedija Adya Vesaka",
+    "username": "YedijaAdyaVesaka",
+    "headline": "Informatics | Web, Game Dev & Designer",
+    "affiliation": "Informatics Engineering",
+    "location": "Indonesia",
+    "status": "Building & Designing",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I am an Informatics Engineering student focused on building scalable web applications, interactive games, and efficient IoT systems.",
+      "Combining software development and graphic design, I aim to create intuitive, visually appealing, and impactful digital solutions."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Software & Game Engineering",
+    "direction": "Interactive systems & IoT solutions",
+    "themes": "Web / Game Dev / Graphic Design / IoT",
+    "narrative": "Focused on creating robust web software, immersive interactive experiences with Unity, and smart IoT monitoring environments."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Web Development",
+      "description": "Building full-stack web applications with PHP, Laravel, JavaScript, and MySQL."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Game Development",
+      "description": "Creating interactive 2D/3D games and experiences using Unity, C#, and Blender."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "IoT & Systems",
+      "description": "Developing hardware-software monitoring solutions using Arduino and ESP32."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Lost Livestock",
+      "url": "https://github.com/YedijaAdyaVesaka/Find-Lost-Livestock",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Web & Tracking System",
+      "summary": "A system designed to monitor and locate lost livestock using mapping and tracking technology.",
+      "heroLabel": "Featured"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "ERP KonveksiKita",
+      "url": "https://github.com/YedijaAdyaVesaka/ERP-KonveksiKita",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Enterprise Resource Planning",
+      "summary": "An ERP management system tailored for garment manufacturing and inventory tracking.",
+      "heroLabel": "Management"
+    },
+    {
+      "name": "SI Gereja",
+      "url": "https://github.com/YedijaAdyaVesaka/Sistem-Informasi-Gereja",
+      "homepage": "",
+      "focus": "Information System",
+      "summary": "A web-based church management system handling member directory and schedules.",
+      "heroLabel": "System"
+    },
+    {
+      "name": "IoT Monitoring",
+      "url": "https://github.com/YedijaAdyaVesaka/IoT-Monitoring-System",
+      "homepage": "",
+      "focus": "IoT Hardware/Software",
+      "summary": "Real-time monitoring system integrating microcontrollers (Arduino/ESP32) and dashboards.",
+      "heroLabel": "IoT"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "PHP",
+    "Laravel",
+    "JavaScript",
+    "MySQL",
+    "C#",
+    "Unity",
+    "Blender",
+    "Arduino",
+    "ESP32",
+    "Figma",
+    "Adobe Photoshop",
+    "Git",
+    "GitHub"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "YedijaAdyaVesaka",
+      "url": "https://github.com/YedijaAdyaVesaka",
       "logo": "github",
       "color": "0B1220"
     }
@@ -71,7 +95,7 @@
     "limit": 6
   },
   "appearance": {
-    "palette": "signal"
+    "palette": "ocean"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building intuitive digital experiences across web, game, and hardware systems."
 }
