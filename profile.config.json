@@ -34,6 +34,14 @@
   ],
   "projects": [
     {
+      "name": "Farma",
+      "url": "https://github.com/YedijaAdyaVesaka/Farma",
+      "homepage": "",
+      "focus": "React Native Mobile App",
+      "summary": "Application providing health medicine recommendations built with React Native.",
+      "heroLabel": "Mobile"
+    },
+    {
       "name": "Find Lost Livestock",
       "url": "https://github.com/YedijaAdyaVesaka/Find-Lost-Livestock",
       "homepage": "",
@@ -70,6 +78,7 @@
     "PHP",
     "Laravel",
     "JavaScript",
+    "React Native",
     "MySQL",
     "C#",
     "Unity",
