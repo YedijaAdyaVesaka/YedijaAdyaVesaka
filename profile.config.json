@@ -34,12 +34,12 @@
   ],
   "projects": [
     {
-      "name": "Lost Livestock",
+      "name": "Find Lost Livestock",
       "url": "https://github.com/YedijaAdyaVesaka/Find-Lost-Livestock",
       "homepage": "",
-      "focus": "Web & Tracking System",
-      "summary": "A system designed to monitor and locate lost livestock using mapping and tracking technology.",
-      "heroLabel": "Featured"
+      "focus": "Game Development",
+      "summary": "An interactive game focused on searching and rescuing lost livestock.",
+      "heroLabel": "Game"
     },
     {
       "name": "ERP KonveksiKita",
