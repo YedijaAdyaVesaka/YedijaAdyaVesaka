@@ -38,7 +38,7 @@
       "url": "https://github.com/YedijaAdyaVesaka/Farma",
       "homepage": "",
       "focus": "React Native Mobile App",
-      "summary": "Application providing health medicine recommendations built with React Native.",
+      "summary": "Health medicine recommendations and health article management app built with React Native & Firebase.",
       "heroLabel": "Mobile"
     },
     {
