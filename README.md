@@ -49,7 +49,6 @@ Focused on creating robust web software, immersive interactive experiences with 
 
 <!-- AUTO:ACTIVITY:START -->
 - Oct 27, 2026: pushed 1 commit to [YedijaAdyaVesaka/Portofolio_YedijaAdyaVesaka](https://github.com/YedijaAdyaVesaka/Portofolio_YedijaAdyaVesaka).
-- Oct 2, 2026: pushed 1 commit to [YedijaAdyaVesaka/MyJobTrack](https://github.com/YedijaAdyaVesaka/MyJobTrack).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
